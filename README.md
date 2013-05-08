@@ -31,6 +31,31 @@ http://wiki.eclipse.org/Eclipse_DemoCamps_Kepler_2013
 
 Feel free to contact.
 
+## Invitation for cooperation
+
+This is free event for developers in China.
+
+There are 3 levels of possible cooperation:
+
+1) You send/recommend some speakers (Chinese preferred  or it should be BIRT contributor ) to talk about BIRT solution.
+That is very great topic. We also use BIRT in our company, and I think some developers may come just to listen to that topic.
+(It may be other Eclipse related project as well).
+
+2) You can help by providing venue, or sponsor with money for a venue to accommodate 100 people.
+(We have option now, but it is just for up to 30 persons.)
+We need to decide on venue question by the end of May, when we start advertising the event.
+(I got approval that Funshion will be advertising it, so Funshion will be actually advertising/media sponsor)
+
+3) You can help by becoming co-organizer:
+Invite speakers & participants, search for venue, drinks, sponsorship; lead the event.
+
+In case 2) or 3) we put you logo on wiki-page
+http://wiki.eclipse.org/Eclipse_DemoCamps_Kepler_2013/Beijing
+in Organizer or Sponsors sections.
+Call me if any other questions.
+随时问问，英文中文都可以。
+
+
 ## Site constructions
 
 Some links:
