@@ -7,6 +7,9 @@ Work in progress.
 Check wiki page
 http://wiki.eclipse.org/Eclipse_DemoCamps_Kepler_2013/Beijing
 
+北京市东城区东直门南大街3号国华投资大厦1105室ThoughtWorks （地铁东直门站D口）
+ThoughtWorks, Rm 1105 Guohua Plaza, No.3 Dongzhimen South St, Dongcheng District, Beijing
+
 ## Open letter
 
 All information is at http://wiki.eclipse.org/Eclipse_DemoCamps_Kepler_2013/Beijing
